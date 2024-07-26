@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karnishkarnish
+- 👋 Hi, I’m @Karnish
 - 👀 I’m interested in java programming 
 - 🌱 I’m currently learning Front End Development 
 
